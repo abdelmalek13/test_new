@@ -1,3 +1,4 @@
 import os 
+import sys
 
-print(os.listdir("."))
+print(os.listdir(sys.path()))
