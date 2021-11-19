@@ -1,3 +1,3 @@
-import os 
+import pandas as pd
 
-print(os.listdir("."))
+print(pd.read_csv())
